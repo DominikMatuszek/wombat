@@ -1,0 +1,6 @@
+MoleculeJDetector(
+  (mpnn1): MPNN()
+  (mpnn2): MPNN()
+  (mpnn3): MPNN()
+  (readout): AllNonZeroMaxReadout()
+)
